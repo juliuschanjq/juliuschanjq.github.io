@@ -17,7 +17,7 @@ redirect_from:
 
 📚 I have professional expertise in product/project management and tech support.
 
-🤝 Whether it's discussing potential opportunities, sharing insights, or simply exchanging ideas, I'm always open to connecting with like-minded individual
+🤝 Whether it's discussing potential opportunities, sharing insights, or simply exchanging ideas, I'm always open to connecting with like-minded individuals!
 
 📽️ In my free time, I enjoy video games, photography, and curating my vinyl collection.
 
