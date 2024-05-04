@@ -13,7 +13,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/presentation.jpg){: .align-right width="300px"}
 👨🏻‍💻 I'm a Graduate in Computer Science, Applied Artificial Intelligence and Business Intelligence.
 
-🔬 My current research interests are in Generative AI and Fintech.
+🔬 In the future, I aspire to explore Generative AI more deeply and am contemplating pursuing a Master's of Science in AI to further my studies in this field.
 
 📚 I have professional expertise in product/project management and tech support.
 
