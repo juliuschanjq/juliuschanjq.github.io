@@ -11,9 +11,9 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/presentation.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a Graduate in Computer Science, Applied Artificial Intelligence and Business Intelligence.
+👨🏻‍💻 I'm a Graduate in Computer Science, Applied Artificial Intelligence, Business Intelligence and Cyber Security.
 
-🔬 In the future, I aspire to explore Generative AI more deeply and am contemplating pursuing a Master's of Science in AI to further my studies in this field.
+🔬 I aspire to explore Generative AI more deeply and am contemplating pursuing a Master's of Science in AI to further my studies in this field.
 
 📚 I have professional expertise in product/project management and tech support.
 
@@ -24,14 +24,14 @@ redirect_from:
 # Selected Experience
 
 ## 🤖  Source Contributions
-I have contributed to [Isomer](https://github.com/isomerpages) a Singapore-Based static website builder during my professional tenure at Open Goverment Products. 
+I have actively contributed to [Isomer](https://github.com/isomerpages) a Singapore-Based static website builder during my professional tenure at Open Goverment Products. 
 
 ## 📜 Research and Papers
-"I possess academic research experience spanning various topics, including internet addiction and the ethical implications of AI, such as facial recognition. This includes crafting conference papers, reports, and essays on these topics."
+I possess academic research experience spanning various topics, including internet addiction and the ethical implications of AI, such as facial recognition. This includes crafting conference papers, reports, and essays on these topics.
 
 ## 👨🏻‍🔬 Professional Experience
 
-Throughoth my professional experience, I have Worked as a Product Operations Executive at Open Government Products, Govtech Singapore, undergone an Apprenticeship Cybersecurity Specialist at NexusGuard, and a Customer Service Officer at DBS Bank.
+In my professional experience, I've held roles as a Product Operations Executive at Open Government Products, completed an Apprenticeship as a Cybersecurity Specialist at NexusGuard, and worked as a Customer Service Officer at DBS Bank.
 
 <!-- 
 ## 📚 Teaching and Community Contributions
