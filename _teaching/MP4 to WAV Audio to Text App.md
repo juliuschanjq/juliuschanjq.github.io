@@ -4,7 +4,7 @@ collection: projects
 type: "Academic Project"
 permalink: /projects/MP4-to-wav-to-text
 venue: "Coventry University"
-date: 2014-02-01
+date: 2024-02-01
 location: # "City, Country"
 ---
 
