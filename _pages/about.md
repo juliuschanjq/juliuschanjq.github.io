@@ -31,7 +31,7 @@ In my professional experience, I've held roles as a Product Operations Executive
 I have actively contributed to [Isomer](https://github.com/isomerpages) a Singapore-Based static website builder during my professional tenure at Open Goverment Products. 
 
 ## 📜 Research and Papers
-I possess academic research experience spanning various topics, including internet addiction and the ethical implications of AI, such as facial recognition. This includes crafting conference papers, reports, and essays on these topics.
+I possess academic research experience spanning various topics such as contemporary issues in computing and the ethical implications of AI. This includes crafting conference papers, reports, and essays on these topics.
 
 
 <!-- 
