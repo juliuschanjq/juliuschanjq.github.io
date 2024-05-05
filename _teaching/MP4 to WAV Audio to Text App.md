@@ -4,7 +4,7 @@ collection: projects
 type: "Academic Project"
 permalink: https://github.com/juliuschanjq/Computer-Hardware
 venue: "Coventry University"
-date: 2015-01-01
+date: 2014-02-01
 location: # "City, Country"
 ---
 
