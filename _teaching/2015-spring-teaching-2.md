@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+title: "MP4 to WAV Audio to Text"
+collection: projects
+type: "Academic Project"
+permalink: https://github.com/juliuschanjq/Computer-Hardware
+venue: "Coventry University"
 date: 2015-01-01
-location: "City, Country"
+location: # "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+An MP4-to-WAV-to-text transcription application has been developed for both sequential and parallel processing. A comparison of their performance in transcribing WAV audio from MP4 movies will be conducted, analyzing efficiency, accuracy, and speed. The goal is to evaluate strengths and weaknesses in each processing technique to determine the most effective transcription method. The Python application extracts audio from MP4 files, converts it to WAV, transcribes using Google's API, and saves the text results.
