@@ -3,7 +3,7 @@ title: "Project Pancake (Isomer x MOE)"
 collection: projects
 type: "Product Operations Executive"
 # permalink: /projects/project-pancake
-venue: "Open Governmnet Products"
+venue: "Open Government Products"
 date: 2023-01-01
 location: # "City, Country"
 ---

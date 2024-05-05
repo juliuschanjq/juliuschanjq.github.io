@@ -3,7 +3,7 @@ title: "Project Lovelock (DNS Update Exercise)"
 collection: projects
 type: "Product Operations Executive"
 # permalink: /projects/project-pancake
-venue: "Open Governmnet Products"
+venue: "Open Government Products"
 date: 2024-01-01
 location: # "City, Country"
 ---
