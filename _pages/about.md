@@ -13,7 +13,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/presentation.jpg){: .align-right width="300px"}
 📚 I have professional expertise in product/project management and tech support.
 
-👨🏻‍💻 I'm a Graduate in Computer Science, Applied Artificial Intelligence, Business Intelligence. Additionally, I have obtained certifications in Cyber Security, Product Management, and Finance Services.
+👨🏻‍💻 I'm a Graduate in Computer Science, Applied Artificial Intelligence and Business Intelligence. Additionally, I have obtained certifications in Cyber Security, Product Management, and Finance Services.
 
 🔬 I aspire to explore AI more deeply and have intentions on pursuing a Master's of Science in AI to further my studies in this field.
 
