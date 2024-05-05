@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👋🏼 Hey there, I'm Julius!"
+## 👋🏼 Hey there, I'm Julius!
 
 ![Illustration of combining vision and language modalities](/images/presentation.jpg){: .align-right width="300px"}
 📚 I have professional expertise in product/project management and tech support.
