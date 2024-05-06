@@ -1,5 +1,5 @@
 ---
-title: "Restaurant Chatbot(DialogFlow)"
+title: "Restaurant Chatbot (DialogFlow)"
 collection: projects
 type: "Academic & Personal Project"
 permalink: /projects/chatbot
