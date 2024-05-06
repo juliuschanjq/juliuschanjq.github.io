@@ -1,11 +1,11 @@
 ---
-title: "More Projects"
+title: "More Projects..."
 collection: projects
-type: ""
+type: "GitHub"
 permalink: /projects/github-link
-venue: ""
-date: 2014-02-01
+venue: "Link"
+date: 2014-01-01
 location: # "City, Country"
 ---
 
-[On GitHub](https://github.com/juliuschanjq)
+[https://github.com/juliuschanjq](https://github.com/juliuschanjq)
