@@ -29,8 +29,8 @@ efforts to address the problems caused by
 excessive internet usage and encourage healthy 
 digital behaviors in today's society.
 
-## Keywords - 
-Internet addiction, prevalence, 
+## Keywords 
+- Internet addiction, prevalence, 
 causes, consequences, mental health, technology, 
 prevention, digital habits.
 
