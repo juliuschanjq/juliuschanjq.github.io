@@ -4,7 +4,7 @@ collection: projects
 type: "Academic Project"
 permalink: /projects/web-development-project
 venue: "Coventry University"
-date: 2013-07-01
+date: 2023-07-01
 location: # "City, Country"
 ---
 
