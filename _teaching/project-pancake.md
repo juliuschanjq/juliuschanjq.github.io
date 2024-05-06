@@ -4,7 +4,7 @@ collection: projects
 type: "Product Operations Executive"
 permalink: /projects/project-pancake
 venue: "Open Government Products"
-date: 2024-01-01
+date: 2023-09-01
 location: # "City, Country"
 ---
 
