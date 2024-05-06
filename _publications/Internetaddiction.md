@@ -2,7 +2,7 @@
 title: "Hooked On The Internet"
 collection: papers-and-reports
 permalink: /papers-and-reports/internet-addiction
-excerpt: 'A Comprehensive Analysis of Internet Addictionn'
+excerpt: 'A Comprehensive Analysis of Internet Addiction'
 date: 2024
 venue: # ''
 paperurl: 'http://juliuschanjq.github.io/files/paper1.pdf'
