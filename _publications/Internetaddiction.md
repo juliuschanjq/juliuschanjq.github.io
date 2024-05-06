@@ -4,7 +4,7 @@ collection: papers-and-reports
 permalink: /papers-and-reports/internet-addiction
 excerpt: 'A Comprehensive Analysis of Internet Addiction'
 date: 2024-05-06
-venue: # ''
+venue: 'Coventry University'
 paperurl: 'http://juliuschanjq.github.io/files/paper1.pdf'
 citation: 'Julius Chan'
 ---
