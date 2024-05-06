@@ -1,7 +1,7 @@
 ---
 title: "Web Development Project"
 collection: projects
-type: "Academic Project"
+type: "Academic & Personal Project"
 permalink: /projects/web-development-project
 venue: "Coventry University"
 date: 2023-07-01
