@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/internet-addiction
 excerpt: 'A Comprehensive Analysis of Internet Addictionn'
 date: 2024-05-06
-venue: # 'Journal 1'
+# venue: # 'Journal 1'
 paperurl: 'http://juliuschanjq.github.io/files/paper1.pdf'
 citation: 'Julius Chan'
 ---
