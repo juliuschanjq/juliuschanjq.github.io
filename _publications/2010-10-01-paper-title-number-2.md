@@ -1,12 +1,36 @@
 ---
-title: "Paper Title Number 2"
+title: "Hooked On The Internet"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/internet-addiction
+excerpt: 'A Comprehensive Analysis of Internet Addictionn'
+date: 2024-05-06
+venue: # 'Journal 1'
+paperurl: 'http://juliuschanjq.github.io/files/paper1.pdf'
+citation: 'Julius Chan'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract 
+- Internet addiction has developed 
+as a major contemporary issue, drawing the 
+attention of researchers, healthcare, and the 
+general public. This paper looks into the various 
+types of internet usage, intending to bring 
+awareness to its prevalence. This 
+research examines the different aspects that 
+contribute to internet addiction, including 
+individual characteristics, and societal 
+influences, using a comprehensive assessment 
+of the literature and unique research findings. 
+Furthermore, the paper investigates how internet 
+addiction affects mental health, interpersonal 
+connections, and academic/work performance. 
+Ultimately, this research adds to continuing 
+efforts to address the problems caused by 
+excessive internet usage and encourage healthy 
+digital behaviors in today's society.
+
+## Keywords - 
+Internet addiction, prevalence, 
+causes, consequences, mental health, technology, 
+prevention, digital habits.
+
