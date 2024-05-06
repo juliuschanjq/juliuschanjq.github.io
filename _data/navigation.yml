@@ -4,8 +4,11 @@ main:
     #url: /cv/
     url: /files/resume.pdf
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Papers & Reports"
+    url: /papers-and-reports/
+  
+#  - title: "Publications"
+#    url: /publications/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
