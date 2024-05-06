@@ -1,7 +1,7 @@
 ---
 title: "Hooked On The Internet"
-collection: publications
-permalink: /publication/internet-addiction
+collection: papers-and-reports
+permalink: /papers-and-reports/internet-addiction
 excerpt: 'A Comprehensive Analysis of Internet Addictionn'
 date: 2024-05-06
 # venue: # 'Journal 1'
