@@ -11,7 +11,7 @@ citation: 'Julius Chan'
 
 Utilizing Tableau, I leverage data from the Housing and Development Board (HDB) resale price 2017 - 2023 dataset to uncover critical insights into Singapore's real estate market. By creating intuitive dashboards, I visually present trends and key factors influencing HDB resale prices. This empowers stakeholders and prospective homeowners to make informed decisions regarding investment opportunities, housing affordability, and market dynamics.
 
-Data Charts(https://github.com/juliuschanjq/Data-Analytics/tree/main/HDB%20Resale%202017%20-%202023%20Price%20Analysis)
+[Data Charts](https://github.com/juliuschanjq/Data-Analytics/tree/main/HDB%20Resale%202017%20-%202023%20Price%20Analysis)
 
 Fishbone Diagram 
 ======
