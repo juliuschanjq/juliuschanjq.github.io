@@ -1,7 +1,7 @@
 ---
 title: "HCI Evaluation"
 collection: papers-and-reports
-permalink: /papers-and-reports/internet-addiction
+permalink: /papers-and-reports/hci-report
 excerpt: 'HCI Principles & Jakob Nielsen Evaluation on Shopping Mall Website'
 date: 2024-08-06
 venue: 'Coventry University'
