@@ -1,9 +1,9 @@
 ---
-title: "HCI Evaluation"
+title: "Human-Computer Interaction (HCI) Report"
 collection: papers-and-reports
 permalink: /papers-and-reports/hci-report
 excerpt: 'HCI Principles & Jakob Nielsen Evaluation on Shopping Mall Website'
-date: 2024-08-06
+date: 2023-08-06
 venue: 'Coventry University'
 paperurl: 'http://juliuschanjq.github.io/files/paper2.pdf'
 citation: 'Julius Chan'
