@@ -1,5 +1,5 @@
 ---
-title: "Amazon Rekognition Web Project"
+title: "Amazon Rekognition Web Project (AWS)"
 collection: projects
 type: "Academic Project"
 permalink: /projects/amazon-rekognition

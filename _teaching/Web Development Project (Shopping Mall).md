@@ -1,5 +1,5 @@
 ---
-title: "Web Development Project"
+title: "Shopping Mall Website (Wordpress)"
 collection: projects
 type: "Academic & Personal Project"
 permalink: /projects/web-development-project
