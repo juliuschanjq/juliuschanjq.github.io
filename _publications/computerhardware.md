@@ -2,7 +2,7 @@
 title: "Exploring Modern Computer Hardware"
 collection: papers-and-reports
 permalink: /papers-and-reports/hdb-analysis
-excerpt: 'Trends, Challenges, and Future Directions in Architectural Desig'
+excerpt: 'Trends, Challenges, and Future Directions in Architectural Design'
 date: 2024-02-01
 venue: 'Coventry University'
 paperurl: 'http://juliuschanjq.github.io/files/paper4.pdf'
