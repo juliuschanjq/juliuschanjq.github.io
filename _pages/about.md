@@ -11,7 +11,7 @@ redirect_from:
 ## 👋🏼 Hey there, I'm Julius!
 
 ![Illustration of combining vision and language modalities](/images/presentation.jpg){: .align-right width="300px"}
-📚 I have professional expertise in product/project management, stakeholder management and user support.
+📚 I have professional expertise in product/project management, liasing with stakeholders and user support.
 
 👨🏻‍💻 I'm a Graduate in Computer Science, Applied Artificial Intelligence and Business Intelligence. Additionally, I have obtained certifications in Cyber Security, Product Management, and Finance Services.
 
