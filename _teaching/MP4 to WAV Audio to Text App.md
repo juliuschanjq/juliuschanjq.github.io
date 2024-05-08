@@ -1,5 +1,5 @@
 ---
-title: "MP4 to WAV Audio to Text Application"
+title: "MP4 to WAV Audio to Text Application (Python)"
 collection: projects
 type: "Academic Project"
 permalink: /projects/MP4-to-wav-to-text
