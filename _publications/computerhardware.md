@@ -1,7 +1,7 @@
 ---
 title: "Exploring Modern Computer Hardware"
 collection: papers-and-reports
-permalink: /papers-and-reports/hdb-analysis
+permalink: /papers-and-reports/computer-hardware
 excerpt: 'Trends, Challenges, and Future Directions in Architectural Design'
 date: 2024-02-01
 venue: 'Coventry University'

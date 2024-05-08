@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis on HDB Resale Price 2017-2023"
+title: "Data Analysis on Singapore HDB Resale Price 2017-2023"
 collection: papers-and-reports
 permalink: /papers-and-reports/hdb-analysis
 excerpt: 'Business Intelligence Project'
