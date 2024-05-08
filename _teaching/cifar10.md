@@ -4,7 +4,7 @@ collection: projects
 type: "Personal & Academic Project"
 permalink: /projects/cifar10
 venue: "Temasek Polytechnic"
-date: 2023-02-01
+date: 2021-10-01
 location: # "City, Country"
 ---
 

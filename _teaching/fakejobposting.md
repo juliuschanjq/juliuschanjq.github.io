@@ -1,10 +1,10 @@
 ---
 title: "Fake Job Posting (Text Classification)"
 collection: projects
-type: "Personal & Academic Project"
+type: "Academic Project"
 permalink: /projects/fake-job-posting
 venue: "Temasek Polytechnic"
-date: 2023-02-01
+date: 2022-10-01
 location: # "City, Country"
 ---
 
