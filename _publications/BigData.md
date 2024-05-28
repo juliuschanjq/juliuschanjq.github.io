@@ -16,4 +16,4 @@ comprises around ten years of daily weather observations from various places thr
 
 Machine Learning Algorithm Overview
 ======
-![](/images/Machine-Learning-Algorithm.png.png)
+![](/images/Machine-Learning-Algorithm.png)
