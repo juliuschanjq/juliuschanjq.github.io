@@ -11,7 +11,7 @@ citation: 'Julius Chan'
 
 ## Description
 This essay explores the the the Seven V's of Big Data Analytics, Four Main Types of SQL Join Operations on a self-created database and Maching Learning on Rainfall Prediction.
-Orange has been selected as the machine learning tool as it is a strong tool on the 'WeatherAUS' Dataset that is sourced from the Australian Bureau of Meteorology and 
+Orange has been selected as the machine learning tool as for the 'WeatherAUS' Dataset which is sourced from the Australian Bureau of Meteorology and 
 comprises around ten years of daily weather observations from various places throughout Australia.
 
 Machine Learning Algorithm Overview
