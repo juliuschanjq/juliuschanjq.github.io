@@ -1,5 +1,5 @@
 ---
-title: "Big Data Conceps & Machine Learning Using Orange"
+title: "Big Data Concepts & Machine Learning with Orange"
 collection: papers-and-reports
 permalink: /papers-and-reports/big-data
 excerpt: 'Seven Vs of Big Data, SQL Join Operations and Orange Machine Learning Tool'
