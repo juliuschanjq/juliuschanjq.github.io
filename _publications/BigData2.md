@@ -10,7 +10,7 @@ citation: 'Julius Chan'
 ---
 
 ## Description
-This essay explores NoSQLs such as MongoDB, the many components of Apache Hadoop that intergrates on a robust workflow of Big Data and Social Media Analytics Tools that can be used to track various KPIs for commercial profit.
+This essay explores NoSQLs such as MongoDB, the many components of Apache Hadoop that intergrates a robust workflow for Big Data and Social Media Analytics Tools that can be used to track various KPIs for commercial profit.
 
 
 
