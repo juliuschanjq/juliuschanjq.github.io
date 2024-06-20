@@ -13,7 +13,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/presentation.jpg){: .align-right width="300px"}
 📚 I have professional expertise in product/project management, liasing with stakeholders and users.
 
-👨🏻‍💻 I'm a Graduate in Computer Science, Applied Artificial Intelligence and Business Intelligence. Additionally, I have obtained certifications in Cyber Security, Product Management, and Finance Services.
+👨🏻‍💻 I'm a Graduate in Computer Science, Artificial Intelligence and Business Intelligence. Additionally, I have obtained certifications in Cyber Security, Product Management, and Finance Services.
 
 🔬 I aspire to explore the computing field more deeply and have intentions on pursuing a Master's of Science to further my studies in this field.
 
