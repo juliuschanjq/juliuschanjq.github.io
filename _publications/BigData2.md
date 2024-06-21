@@ -2,10 +2,10 @@
 title: "Big Data Tools (Apache Hadoop and Social Media)"
 collection: papers-and-reports
 permalink: /papers-and-reports/big-data-2
-excerpt: 'NoSQL, MongoDB, Apache Hadoop and Social Media Analytics'
+excerpt: 'NoSQL, MongoDB, Apache Hadoop and Social Media Analytic Tools'
 date: 2024-06-19
 venue: 'Coventry University'
-paperurl: 'http://juliuschanjq.github.io/files/paper7.pdf'
+paperurl: 'http://juliuschanjq.github.io/files/Paper7.pdf'
 citation: 'Julius Chan'
 ---
 
