@@ -3,7 +3,7 @@ title: "IoT in Healthcare and Prototype Development"
 collection: papers-and-reports
 permalink: /papers-and-reports/iot-in-healthcare
 excerpt: 'Smart Medical Waste Management'
-date: 2024-20-08
+date: 2024-08-19
 venue: 'Coventry University'
 paperurl: 'http://juliuschanjq.github.io/files/paper8.pdf'
 citation: 'Julius Chan'
