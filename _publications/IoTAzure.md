@@ -11,8 +11,8 @@ citation: 'Julius Chan'
 
 ## Description
 The report offers a full overview of the project, beginning with background research on IoT's function in 
-healthcare. It contains an analysis of numerous case studies that demonstrate the actual uses of IoT in 
-fields like as remote patient monitoring, emergency response systems, and smart medical waste 
+healthcare. It contains an analysis and literature review of numerous case studies that demonstrate the actual uses of IoT in 
+fields such as remote patient monitoring, emergency response systems, and smart medical waste 
 management. 
 
 Following that, the prototype's design will be based on a Smart Medical Waste Mangement deleloped with Raspberry Pi, Microsoft Azure and a real-time monitoring dashboard with a focus on the conceptual 
@@ -27,4 +27,3 @@ System Architeture
 ======
 ![](/images/prototypesystem.png)
 
-![Source Code]https://github.com/juliuschanjq/Azure-Projects/tree/main
