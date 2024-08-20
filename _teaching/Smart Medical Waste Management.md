@@ -4,7 +4,7 @@ collection: projects
 type: "Personal & Academic Project"
 permalink: /projects/smart-medical-waste-management
 venue: "Coventry University"
-date: 2024-20-19
+date: 2024-08-19
 location: # "City, Country"
 ---
 
