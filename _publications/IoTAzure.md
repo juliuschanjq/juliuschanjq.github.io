@@ -5,7 +5,7 @@ permalink: /papers-and-reports/iot-in-healthcare
 excerpt: 'Smart Medical Waste Management'
 date: 2024-08-19
 venue: 'Coventry University'
-paperurl: 'http://juliuschanjq.github.io/files/paper7.pdf'
+paperurl: 'http://juliuschanjq.github.io/files/paper8.pdf'
 citation: 'Julius Chan'
 ---
 
