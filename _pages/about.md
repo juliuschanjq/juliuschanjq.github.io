@@ -11,7 +11,7 @@ redirect_from:
 ## 👋🏼 Hey there, I'm Julius!
 
 ![Illustration of combining vision and language modalities](/images/presentation.jpg){: .align-right width="300px"}
-📚 I’m a Digital Product Manager with a background in product/project management and stakeholder management, driving successful outcomes in previous roles.
+📚 I have a professional background in product/project management and stakeholder management, driving successful outcomes in previous roles.
 
 👨🏻‍💻 I'm a Graduate in Computer Science, Artificial Intelligence and Business Intelligence. Additionally, I have obtained certifications in Cyber Security, Product Management, and Finance Services.
 
