@@ -15,7 +15,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a Graduate in Computer Science, Artificial Intelligence and Business Intelligence. Additionally, I have obtained certifications in Cyber Security, Product Management, and Finance Services.
 
-🔬 I aspire to explore the computing field more deeply and am currently pursuing a Post-Diploma in DevOps to further my studies in this field.
+🔬 I aspire to explore the computing field more deeply and am currently pursuing a Post-Diploma in DevOps to further my knowledge in this field.
 
 🤝 Whether it's discussing potential opportunities, sharing insights, or simply exchanging ideas, I'm always open to connecting with like-minded individuals!
 
