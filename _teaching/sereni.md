@@ -18,11 +18,11 @@ Website
 
 ![](/images/Homepage_Part_3.png)
 
-![](/images/Conversation_flow_3)
+![](/images/Conversation_flow_3.png)
 
-![](/images/Resouces_Page_1)
+![](/images/Resouces_Page_1.png)
 
-![](/images/Rich_Response_1)
+![](/images/Rich_Response_1.png)
 
 
 
