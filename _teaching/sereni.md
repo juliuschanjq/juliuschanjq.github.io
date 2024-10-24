@@ -1,5 +1,5 @@
 ---
-title: "CIFAR10 (Tensorflow & Deep Learning)"
+title: "Sereni"
 collection: projects
 type: "Personal & Academic Project"
 permalink: /projects/sereni
